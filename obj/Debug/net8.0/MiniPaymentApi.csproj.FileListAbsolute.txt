@@ -70,3 +70,6 @@
 /Users/Mert/Documents/projects/dotnetSamples/push/MiniPaymentApi/obj/Debug/net8.0/MiniPaymentApi.pdb
 /Users/Mert/Documents/projects/dotnetSamples/push/MiniPaymentApi/obj/Debug/net8.0/MiniPaymentApi.genruntimeconfig.cache
 /Users/Mert/Documents/projects/dotnetSamples/push/MiniPaymentApi/obj/Debug/net8.0/ref/MiniPaymentApi.dll
+/Users/Mert/Documents/projects/dotnetSamples/push/MiniPaymentApi/bin/Debug/net8.0/DotNetEnv.dll
+/Users/Mert/Documents/projects/dotnetSamples/push/MiniPaymentApi/bin/Debug/net8.0/Sprache.dll
+/Users/Mert/Documents/projects/dotnetSamples/push/MiniPaymentApi/obj/Debug/net8.0/MiniPaymentApi.sourcelink.json
