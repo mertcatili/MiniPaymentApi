@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6TwMD4SPTjQEc4bsO4NsxRRVpyVzxHRPjyZXM4SzkfA=",
+  "Source": "MiniPaymentApi",
+  "BasePath": "_content/MiniPaymentApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
